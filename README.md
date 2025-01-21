@@ -15,7 +15,7 @@ Keystore-Unlock is a lightweight, secure, and client-side tool designed to decry
 Clone this repository or download it as a ZIP file:
 
 ```bash
-git clone https://github.com/your-repo/keystore-unlock.git
+git clone https://github.com/jam3on/keystore-unlock.git
 ```
 
 ### 2. Open in Your Browser
